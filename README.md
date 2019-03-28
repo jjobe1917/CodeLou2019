@@ -1,7 +1,7 @@
 # CodeLou2019
 My CL Project
 
-This Project is about my GrandFather who's a well known religious leader that has over 100 millions followers.
+This Project is about my GrandFather who's a well known religious leader that has over 100 millions followers world wide.
 
 The site consists of three pages, the Home page, Photo Gallery, and his Life History.
 
